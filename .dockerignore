@@ -1,0 +1,8 @@
+.git
+.claude
+*.pen
+*.md
+plans/
+commands/
+.agents/
+journal/
